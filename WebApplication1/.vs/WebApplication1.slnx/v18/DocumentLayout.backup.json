@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF354AF-9ED8-4BAC-8924-95158CA2629A}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\downloads\\new folder\\task\\webapplication1\\webapplication1\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF354AF-9ED8-4BAC-8924-95158CA2629A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAF76E0-901B-47EE-8767-CB4AF11AB68B}|ClassLibrary1\\Task1.csproj|c:\\users\\dell\\downloads\\new folder\\task\\webapplication1\\classlibrary1\\repos\\itemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAF76E0-901B-47EE-8767-CB4AF11AB68B}|ClassLibrary1\\Task1.csproj|solutionrelative:classlibrary1\\repos\\itemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAF76E0-901B-47EE-8767-CB4AF11AB68B}|ClassLibrary1\\Task1.csproj|c:\\users\\dell\\downloads\\new folder\\task\\webapplication1\\classlibrary1\\repos\\itemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAF76E0-901B-47EE-8767-CB4AF11AB68B}|ClassLibrary1\\Task1.csproj|solutionrelative:classlibrary1\\repos\\itemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF354AF-9ED8-4BAC-8924-95158CA2629A}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\downloads\\new folder\\task\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF354AF-9ED8-4BAC-8924-95158CA2629A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF354AF-9ED8-4BAC-8924-95158CA2629A}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\downloads\\new folder\\task\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DF354AF-9ED8-4BAC-8924-95158CA2629A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAF76E0-901B-47EE-8767-CB4AF11AB68B}|ClassLibrary1\\Task1.csproj|c:\\users\\dell\\downloads\\new folder\\task\\webapplication1\\classlibrary1\\data\\appdbcontextfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAF76E0-901B-47EE-8767-CB4AF11AB68B}|ClassLibrary1\\Task1.csproj|solutionrelative:classlibrary1\\data\\appdbcontextfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Migrations\\20260726201342_Addfiels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Migrations\\20260726201342_Addfiels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAF76E0-901B-47EE-8767-CB4AF11AB68B}|ClassLibrary1\\Task1.csproj|c:\\users\\dell\\downloads\\new folder\\task\\webapplication1\\classlibrary1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAF76E0-901B-47EE-8767-CB4AF11AB68B}|ClassLibrary1\\Task1.csproj|solutionrelative:classlibrary1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Migrations\\20260726194752_addfiels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Migrations\\20260726194752_addfiels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAF76E0-901B-47EE-8767-CB4AF11AB68B}|ClassLibrary1\\Task1.csproj|c:\\users\\dell\\downloads\\new folder\\task\\webapplication1\\classlibrary1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BAF76E0-901B-47EE-8767-CB4AF11AB68B}|ClassLibrary1\\Task1.csproj|solutionrelative:classlibrary1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF354AF-9ED8-4BAC-8924-95158CA2629A}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\downloads\\new folder\\task\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DF354AF-9ED8-4BAC-8924-95158CA2629A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\WebApplication1\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\WebApplication1\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T20:27:11.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Repos\\ItemRepo.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repos\\ItemRepo.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Repos\\ItemRepo.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repos\\ItemRepo.cs",
+              "ViewState": "AgIAAAgAAABQ//////8wwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T20:19:53.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Repos\\ItemsRepo.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repos\\ItemsRepo.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Repos\\ItemsRepo.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repos\\ItemsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T20:16:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260726201342_Addfiels.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Migrations\\20260726201342_Addfiels.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Migrations\\20260726201342_Addfiels.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Migrations\\20260726201342_Addfiels.cs",
+              "RelativeToolTip": "ClassLibrary1\\Migrations\\20260726201342_Addfiels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T20:13:43.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextFactory .cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Data\\AppDbContextFactory .cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Data\\AppDbContextFactory .cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Data\\AppDbContextFactory .cs",
+              "RelativeToolTip": "ClassLibrary1\\Data\\AppDbContextFactory .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T20:12:32.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T20:01:22.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-26T19:51:52.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ClassLibrary1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T19:51:48.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260726194752_addfiels.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Migrations\\20260726194752_addfiels.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Migrations\\20260726194752_addfiels.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Migrations\\20260726194752_addfiels.cs",
+              "RelativeToolTip": "ClassLibrary1\\Migrations\\20260726194752_addfiels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T19:47:52.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task1",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Task1.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Task1.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\ClassLibrary1\\Task1.csproj",
+              "RelativeToolTip": "ClassLibrary1\\Task1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-26T19:46:36.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\New folder\\task\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAEAAACIzMzMzMwgwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-26T18:48:42.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
