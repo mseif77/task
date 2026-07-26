@@ -13,7 +13,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDbContext>(x =>
     x.UseSqlServer(builder.Configuration.GetConnectionString("myconec")));
-builder.Services.AddScoped<ItemsRepo,ItemRepo>();
+builder.Services.AddScoped<IitemsRepo,ItemRepo>();
 
 
 var app = builder.Build();
